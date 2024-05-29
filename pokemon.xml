@@ -1,0 +1,20 @@
+<pokemonListing>
+	<pokemon>
+		<name>Charizard</name>
+		<number>6</number>
+		<region>Kanto</region>
+		<types>Fire/Flying</types>
+	</pokemon>
+	<pokemon>
+		<name>Ho-Oh</name>
+		<number>250</number>
+		<region>Johto</region>
+		<types>Fire/Flying</types>
+	</pokemon>
+	<pokemon>
+		<name>Dialga</name>
+		<number>483</number>
+		<region>Sinnoh</region>
+		<types>Dragon/Steel</types>
+	</pokemon>
+</pokemonListing>
